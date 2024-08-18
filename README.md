@@ -26,6 +26,7 @@ Este projeto é uma API de autenticação simples usando Node.js, Express, Mongo
 
 ### 3. Configuração do Ambiente:
   Crie um arquivo .env na raiz do projeto com as seguintes variáveis:
+  
   SECRET=seu_secret_key
   DB_USER=seu_usuario_mongodb
   DB_PASSWORD=sua_senha_mongodb
