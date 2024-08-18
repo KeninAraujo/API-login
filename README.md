@@ -21,7 +21,7 @@ Este projeto é uma API de autenticação simples usando Node.js, Express, Mongo
 ### 1. Instale o nodemon
    npm install --save-dev nodemon
 
-### 2. Installe o resto das dependências
+### 2. Instale o resto das dependências
    npm install
 
 ### 3. Configuração do Ambiente:
